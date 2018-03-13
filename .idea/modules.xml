@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kvanC.iml" filepath="$PROJECT_DIR$/.idea/modules/kvanC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kvanC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kvanC_main.iml" group="kvanC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kvanC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kvanC_test.iml" group="kvanC" />
+    </modules>
+  </component>
+</project>
