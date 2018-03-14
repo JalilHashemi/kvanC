@@ -40,7 +40,7 @@ public class Chatter {
         /* sending a ping to localhost */
         System.out.println("Sending Ping");
         try{
-            if(Sender.send(InetAddress.getByName("127.0.0.1"),Listener.DEFAULT_PORT,"!!PING!! testmessage")) {
+            if(Sender.send(InetAddress.getByName("127.0.0.1"),Listener.DISCOVERY_PORT,"wd;jalil")) {
                 System.out.println("Ping sent successfully");
             } else {
                 System.out.println("Ping NOT SENT");

@@ -15,6 +15,9 @@ public class Listener extends Thread{
     /* The default buffer size of the listener */
     private static int BUFFER_SIZE  = 1024;
 
+    public static int DISCOVERY_PORT = 1025;
+
+
     /* the current port beeing used */
     private int port;
     private InetAddress addr;
